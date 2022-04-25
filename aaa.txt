@@ -1,6 +1,10 @@
 i like coding
 coding makes me happy
 edit hot_fix
+<<<<<<< HEAD
 edit master
 
+=======
+edit master in hot_fix
+>>>>>>> hot_fix
 
